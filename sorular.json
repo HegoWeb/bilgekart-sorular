@@ -1,0 +1,27 @@
+[
+  {
+    "soru": "Dünya’nın uydusu hangisidir?",
+    "secenekler": ["Mars", "Ay", "Venüs", "Güneş"],
+    "dogru": "Ay"
+  },
+  {
+    "soru": "Türkiye Cumhuriyeti hangi yıl kuruldu?",
+    "secenekler": ["1920", "1921", "1923", "1938"],
+    "dogru": "1923"
+  },
+  {
+    "soru": "DNA nedir?",
+    "secenekler": ["Hormon", "Protein", "Genetik kod", "Enzim"],
+    "dogru": "Genetik kod"
+  },
+  {
+    "soru": "Leonardo da Vinci’nin en ünlü tablosu?",
+    "secenekler": ["Son Akşam Yemeği", "Mona Lisa", "Vaftizci Yahya", "Yıldızlı Gece"],
+    "dogru": "Mona Lisa"
+  },
+  {
+    "soru": "En büyük okyanus hangisidir?",
+    "secenekler": ["Hint Okyanusu", "Atlas Okyanusu", "Pasifik Okyanusu", "Kuzey Buz Denizi"],
+    "dogru": "Pasifik Okyanusu"
+  }
+]
