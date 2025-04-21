@@ -23,7 +23,7 @@
     "soru": "En büyük okyanus hangisidir?",
     "secenekler": ["Hint Okyanusu", "Atlas Okyanusu", "Pasifik Okyanusu", "Kuzey Buz Denizi"],
     "dogru": "Pasifik Okyanusu"
-  }
+  },
   {
     "soru": "Dünya'nın en eski medeniyeti hangisidir?",
     "secenekler": ["Mısırlılar", "Sümerler", "Asurlar", "Roma İmparatorluğu"],
@@ -139,5 +139,4 @@
     "secenekler": ["Fatih Sultan Mehmet", "Süleyman I", "Kanuni Sultan Süleyman", "Yavuz Sultan Selim"],
     "dogru": "Kanuni Sultan Süleyman"
   }
-
 ]
