@@ -24,4 +24,120 @@
     "secenekler": ["Hint Okyanusu", "Atlas Okyanusu", "Pasifik Okyanusu", "Kuzey Buz Denizi"],
     "dogru": "Pasifik Okyanusu"
   }
+  {
+    "soru": "Dünya'nın en eski medeniyeti hangisidir?",
+    "secenekler": ["Mısırlılar", "Sümerler", "Asurlar", "Roma İmparatorluğu"],
+    "dogru": "Sümerler"
+  },
+  {
+    "soru": "Tarihte ilk yazılı anıt hangi uygarlık tarafından yapılmıştır?",
+    "secenekler": ["Roma", "Mısır", "Sümer", "Yunan"],
+    "dogru": "Sümer"
+  },
+  {
+    "soru": "Birleşmiş Milletler hangi yılda kurulmuştur?",
+    "secenekler": ["1939", "1945", "1950", "1960"],
+    "dogru": "1945"
+  },
+  {
+    "soru": "Matematikte, pi sayısının değeri yaklaşık olarak nedir?",
+    "secenekler": ["3.14", "3.141", "3.1415", "3.142"],
+    "dogru": "3.141"
+  },
+  {
+    "soru": "Bir üçgenin iç açıları toplamı nedir?",
+    "secenekler": ["180°", "360°", "90°", "270°"],
+    "dogru": "180°"
+  },
+  {
+    "soru": "Savaş yıldızları nelerdir?",
+    "secenekler": ["Çıplak gözle görülen yıldızlar", "Yıldız kümeleri", "Yıldız patlamaları", "Güneş Sistemi'ndeki gezegenler"],
+    "dogru": "Çıplak gözle görülen yıldızlar"
+  },
+  {
+    "soru": "Dünya'nın en yüksek dağı hangisidir?",
+    "secenekler": ["Everest", "K2", "Kanchenjunga", "Lhotse"],
+    "dogru": "Everest"
+  },
+  {
+    "soru": "Felsefede 'Cogito, ergo sum' ifadesi kime aittir?",
+    "secenekler": ["Aristoteles", "Sokrates", "Descartes", "Platon"],
+    "dogru": "Descartes"
+  },
+  {
+    "soru": "Coğrafyada en büyük çöl hangisidir?",
+    "secenekler": ["Sahara", "Karakum", "Gobi", "Atacama"],
+    "dogru": "Sahara"
+  },
+  {
+    "soru": "Evrenin başlangıcı ile ilgili hangi teori kabul edilmektedir?",
+    "secenekler": ["Big Bang Teorisi", "Evrim Teorisi", "Nükleer Sentez", "Yerçekimi Teorisi"],
+    "dogru": "Big Bang Teorisi"
+  },
+  {
+    "soru": "Felsefede 'İyi' kavramını en çok kim tartışmıştır?",
+    "secenekler": ["Sokrat", "Nietzsche", "Aristoteles", "Kant"],
+    "dogru": "Platon"
+  },
+  {
+    "soru": "Aşağıdakilerden hangisi bir gezegen değildir?",
+    "secenekler": ["Venüs", "Mars", "Ay", "Jüpiter"],
+    "dogru": "Ay"
+  },
+  {
+    "soru": "Toplamda 10 gezegenli olan Güneş Sistemi'nin dördüncü gezegeni hangisidir?",
+    "secenekler": ["Venüs", "Mars", "Satürn", "Neptün"],
+    "dogru": "Mars"
+  },
+  {
+    "soru": "Dünyanın en büyük okyanusu hangisidir?",
+    "secenekler": ["Atlas Okyanusu", "Hint Okyanusu", "Pasifik Okyanusu", "Arktik Okyanusu"],
+    "dogru": "Pasifik Okyanusu"
+  },
+  {
+    "soru": "Hangi gezegen 'Kızıl Gezegen' olarak bilinir?",
+    "secenekler": ["Venüs", "Mars", "Satürn", "Jüpiter"],
+    "dogru": "Mars"
+  },
+  {
+    "soru": "Hangi gezegenin halkaları vardır?",
+    "secenekler": ["Venüs", "Jüpiter", "Satürn", "Mars"],
+    "dogru": "Satürn"
+  },
+  {
+    "soru": "Felsefede 'Doğa Durumu' anlayışı kime aittir?",
+    "secenekler": ["Hegel", "Locke", "Rousseau", "Platon"],
+    "dogru": "Rousseau"
+  },
+  {
+    "soru": "Dünyada en fazla konuşulan dil nedir?",
+    "secenekler": ["İngilizce", "Çince", "İspanyolca", "Fransızca"],
+    "dogru": "Çince"
+  },
+  {
+    "soru": "Yunan mitolojisinde aşk tanrıçasının adı nedir?",
+    "secenekler": ["Hera", "Aphrodite", "Artemis", "Demeter"],
+    "dogru": "Aphrodite"
+  },
+  {
+    "soru": "Bir paralelkenarın alanı nasıl hesaplanır?",
+    "secenekler": ["taban x yükseklik", "taban + yükseklik", "2 x taban", "taban x taban"],
+    "dogru": "taban x yükseklik"
+  },
+  {
+    "soru": "Felsefe tarihinde 'İdealizm' akımını savunan ünlü filozof kimdir?",
+    "secenekler": ["Sokrat", "Platon", "Aristoteles", "Hegel"],
+    "dogru": "Platon"
+  },
+  {
+    "soru": "Dünya'daki en büyük deniz hangi denizdir?",
+    "secenekler": ["Karadeniz", "Kızıldeniz", "Arabistan Denizi", "Filipin Denizi"],
+    "dogru": "Filipin Denizi"
+  },
+  {
+    "soru": "Türk tarihinde en uzun süre tahtta kalan padişah kimdir?",
+    "secenekler": ["Fatih Sultan Mehmet", "Süleyman I", "Kanuni Sultan Süleyman", "Yavuz Sultan Selim"],
+    "dogru": "Kanuni Sultan Süleyman"
+  }
+
 ]
